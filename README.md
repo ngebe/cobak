@@ -1,0 +1,4 @@
+cobak
+=====
+
+belajar
